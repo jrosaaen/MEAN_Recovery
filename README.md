@@ -26,9 +26,19 @@
 ---
 ######All assumptions are as an Authorized User(AU)
 ######The expectation is that you will not make it past the login screen if not authorized
-######An Admin must add you in order for you to login
+######An Admin must add you to the system in order for you to login
 ######There is no Sign Up page
 ######If the password is forgotten it will need to send out a reset link email to the users address entered by the Admin
+
+###The main landing page (MPL) for non AU should show
+######A Search Bar
+######A button to view Services
+######A button to view Facilities
+######Application name based on branding on upper left navbar
+######A signin link on upper right navbar
+
+###All actions on MLP for a non AU should result in signin page being displayed.
+
 
 ###The AU landing page should show
 ######A Search Bar
